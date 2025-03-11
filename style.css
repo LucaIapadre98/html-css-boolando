@@ -1,3 +1,6 @@
+body{
+    cursor: pointer;
+}
 .header-page{
     background-color: orangered;
 }
@@ -52,7 +55,6 @@ img{
     background-color:white;
     padding: 10px;
     color:black;
-
 }
 
 .card-1 .card-hover{
@@ -230,10 +232,17 @@ img{
     background-color:white;
     padding: 10px;
     color:black;
-
 }
 
 
 
 
 
+
+.conteiner-footer{
+    display: flex;
+    background-color: #222222;
+    justify-content: space-around;
+    padding: 0;
+    color: white;
+}
