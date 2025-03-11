@@ -20,8 +20,9 @@ img{
 }
 .conteiner{
     display: flex;
-    padding: 10px;
     justify-content: center;
+    padding: 50px;
+
 }
 .card-1 {
     position: relative;
@@ -32,7 +33,7 @@ img{
     bottom: 150px;
     left: 0;
     background-color:red;
-    padding: 2px;
+    padding: 3px;
     color: white;
 }
 
@@ -41,7 +42,7 @@ img{
     bottom: 150px;
     left: 40px;
     background-color:hsl(135, 93%, 35%);
-    padding: 2px;
+    padding: 3px;
     color: white;
 }
 .card-1 .card-heart-1{
@@ -59,7 +60,7 @@ img{
  }
 .card-img-1 img{
     width: 300px;
-    height: 500px;
+    height: 450px;
 }
 .card-2{
     position: relative;
@@ -69,12 +70,12 @@ img{
     bottom: 150px;
     left: 0;
     background-color:red;
-    padding: 2px;
+    padding: 3px;
     color: white;
 }
 .card-img-2 img{
     width: 300px;
-    height: 500px;
+    height: 450px;
     justify-content: center;
 }
 .card-2 .card-heart-2{
@@ -89,7 +90,7 @@ img{
 
 .card-img-3 img{
     width: 300px;
-    height: 500px;
+    height: 450px;
     justify-content: center;
 }
 .card-3{
@@ -100,7 +101,7 @@ img{
     bottom: 150px;
     left: 0;
     background-color:red;
-    padding: 2px;
+    padding: 3px;
     color: white;
 }
 
@@ -133,6 +134,106 @@ img{
 .card-title-3 p{
     margin: 0;
 }
+.card-img-4 img{
+    width: 300px;
+    height: 450px; 
+}
+
+.conteiner-bottom{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.card-img-5 img{
+    width: 300px;
+    height: 450px; 
+}
+.card-img-6 img{
+    width: 300px;
+    height: 450px; 
+}
+.card-title-4 h3 {
+    margin: 0;
+}
+.card-title-4 p{
+    margin: 0;
+}
+
+.card-title-5 h3 {
+    margin: 0;
+}
+.card-title-5 p{
+    margin: 0;
+}
+.card-title-6 h3 {
+    margin: 0;
+}
+.card-title-6 p{
+    margin: 0;
+}
+.card-4{
+    position: relative;
+}
+.card-4 .card-discount-badge-4{
+    position: absolute;
+    bottom: 150px;
+    left: 0;
+    background-color:red;
+    padding: 3px;
+    color: white;
+}
+.card-4 .card-discount-4{
+    position: absolute;
+    bottom: 150px;
+    left: 40px;
+    background-color:hsl(135, 93%, 35%);
+    padding: 3px;
+    color: white;
+}
+.card-4 .card-heart-4{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    background-color:white;
+    padding: 10px;
+    color:black;
+
+}
+
+.card-5{
+    position: relative;
+}
+.card-5 .card-heart-5{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    background-color:white;
+    padding: 10px;
+    color:black;
+
+}
+.card-6{
+    position: relative;
+}
+.card-6 .card-discount-6{
+    position: absolute;
+    bottom: 150px;
+    left: 0px;
+    background-color:hsl(135, 93%, 35%);
+    padding: 3px;
+    color: white;
+}
+.card-6 .card-heart-6{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    background-color:white;
+    padding: 10px;
+    color:black;
+
+}
+
+
 
 
 
